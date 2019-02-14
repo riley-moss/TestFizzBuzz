@@ -2,9 +2,8 @@ package com.pillar;
 
 public class FizzBuzz {
 
-	public String fizz(Integer i) {
-		// TODO Auto-generated method stub
-		return "1";
+	public String fizz(Integer inputNumber) {
+		return inputNumber.toString();
 	}
 
 }
